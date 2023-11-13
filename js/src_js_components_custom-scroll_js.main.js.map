@@ -1,0 +1,1 @@
+{"version":3,"file":"src_js_components_custom-scroll_js.main.js","mappings":";;;;;;;;;;;AAAA","sources":["webpack://gulp-builder/./src/js/components/custom-scroll.js"],"sourcesContent":["// Подключение плагина кастом-скролла\nimport 'simplebar';\n"],"names":[],"sourceRoot":""}
