@@ -362,8 +362,7 @@ a {
     height: 44px;
     border: 1px solid rgba(255, 255, 255, 0.08);
     border-radius: 10px;
-    background: url("../img/call.svg") center center no-repeat;
-    background: url("../img/call.svg") center center no-repeat;
+    background: url("../img/Call.svg") center center no-repeat;
     font-size: 0;
     margin-left: auto;
     margin-right: 10px;
